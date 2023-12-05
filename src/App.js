@@ -6,12 +6,7 @@ import SignupForm from './Components/signupForm';
 // import NavBar from './Components/navBar';
 // import HomePart from './Components/homePart';
 export default function App() {
-
-
   return (
-
-
-   <SignupForm />
-     
+   <SignupForm /> 
   )
 } 
